@@ -1,0 +1,58 @@
+[
+    {
+        "scrap": false,
+        "mkJur": "51100",
+        "mkSem": "2",
+        "mkID": "EF4601",
+        "mkThn": "2024",
+        "kelas": ["A", "B", "C", "D", "E", "F", "G"]
+    },
+    {
+        "scrap": false,
+        "mkJur": "__TPB",
+        "mkSem": "2",
+        "mkID": "UG4915",
+        "mkThn": "2024",
+        "kelas": ["21", "22", "23", "24", "25", "26", "27", "28", "29", "30"]
+    },
+    {
+        "scrap": false,
+        "mkJur": "51100",
+        "mkSem": "2",
+        "mkID": "EF4405",
+        "mkThn": "2024",
+        "kelas": ["A", "B", "C", "D", "E", "F", "G", "H", "K"]
+    },
+    {
+        "scrap": false,
+        "mkJur": "51100",
+        "mkSem": "2",
+        "mkID": "EF4402",
+        "mkThn": "2024",
+        "kelas": ["A", "B", "C", "D", "E", "F", "G", "H"]
+    },
+    {
+        "scrap": false,
+        "mkJur": "51100",
+        "mkSem": "2",
+        "mkID": "EF4602",
+        "mkThn": "2024",
+        "kelas": ["A", "B", "C", "D", "E"]
+    },
+    {
+        "scrap": false,
+        "mkJur": "51100",
+        "mkSem": "2",
+        "mkID": "EF4406",
+        "mkThn": "2024",
+        "kelas": ["A", "B", "C", "D", "E", "F", "G", "H"]
+    },
+    {
+        "scrap": true,
+        "mkJur": "51100",
+        "mkSem": "2",
+        "mkID": "EF4403",
+        "mkThn": "2024",
+        "kelas": ["A", "B", "C", "D", "E", "F", "G", "H", "K"]
+    }
+]
